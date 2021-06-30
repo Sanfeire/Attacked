@@ -1,3 +1,3 @@
 # Attacked
-A repository where you can find a basic usage script to meke Ddos an Dos attack yo web pasges, number phones, e-mails or specific ips
+A repository where you can find a basic usage script to make Ddos an Dos attack to web pages, number phones, e-mails or specific ips
 --UNDER CONSTRUCTION (only the README file)--
