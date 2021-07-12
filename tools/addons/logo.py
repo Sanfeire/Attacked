@@ -3,9 +3,9 @@ from colorama import Fore
 
 # Logo
 print(rf"""{Fore.MAGENTA}
-  _____________________________________________________________________________
-< creado for @breakshacker; para el ilegal de Dani, que a ver que hace con esto >
- -------------------------------------------------------------------------------
+  _________________________
+< created by @breakshacker >
+ --------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
